@@ -1,2 +1,1 @@
-# Tranning_repo
-Aadi Technology
+# Training Repo Code | Clone it in VS Code
